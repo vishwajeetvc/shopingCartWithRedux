@@ -1,6 +1,3 @@
-Here's a professional `README.md` for your **VC Shop** project:
-
----
 
 # 🛒 VC Shop
 
@@ -26,20 +23,6 @@ Here's a professional `README.md` for your **VC Shop** project:
 - **Frontend:** React (Vite)
 - **State Management:** Redux Toolkit
 - **Styling:** Tailwind CSS
-
----
-
-## 📁 Folder Structure
-
-```
-src/
-├── components/        // UI Components like CartItem, ProductCard
-├── features/          // Redux slices (cartSlice, productSlice)
-├── pages/             // App pages (Home, Cart, etc.)
-├── App.jsx            // Root component
-├── main.jsx           // Entry point
-└── store.js           // Redux store setup
-```
 
 ---
 
